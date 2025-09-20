@@ -1,0 +1,4 @@
+{
+    "command": "source venv/bin/activate && pip install -r requirements.txt",
+    "working_directory": "/home/kavia/workspace/code-generation/ai-faq-assistant-with-search-and-control-panel-29944-29953/faq_bot_backend"
+}
